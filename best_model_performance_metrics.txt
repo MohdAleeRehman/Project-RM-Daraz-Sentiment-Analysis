@@ -1,0 +1,7 @@
+
+Best Model Performance Metrics:
+- Model: SVM
+- Best Parameters: {'C': 1}
+- Best Cross-Validation Score: 0.8594742552378299
+- F1 Score: 0.8787309381530819
+- ROC AUC: 0.25989182997725924

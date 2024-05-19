@@ -1,0 +1,5 @@
+
+Extracted Features Information:
+- Feature Extraction Technique: TF-IDF
+- Vocabulary Size: 6091
+- Preprocessing Steps: Preprocessed the reviews by converting to lowercase, removing punctuation and digits, and stemming.
